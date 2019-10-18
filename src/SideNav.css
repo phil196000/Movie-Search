@@ -1,0 +1,51 @@
+.container {
+    width: 200px;
+    height: 100vh;
+    background: #1C07F3;
+    /* position: absolute; */
+    /* display: flex */
+}
+
+.title {
+    color: #ffffff;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 20px
+}
+
+.categories {
+    color: #ffffff;
+    list-style: none;
+    margin: 50px 0px 0px -80px;
+    padding: 0px 0px 25px;
+    font-weight: bold;
+    font-size: 12px;
+    border-bottom: 0.05px solid #BEBEBE;
+}
+
+.categories li {
+    margin-top: 35px
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+}
+
+.otherNavIcons {
+    width: 20px;
+    height: 20px;
+    padding: 5px 10px 5px
+}
+
+ul {
+    color: #ffffff;
+    list-style: none;
+    margin: 50px 0px 0px -80px;
+}
+
+.otherNavItems {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

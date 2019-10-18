@@ -1,0 +1,17 @@
+.Search {
+    margin-top: 20px;
+    width: 200px;
+    padding: 10px 10px 10px 20px;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+
+.Search-icon {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    left: 15px;
+    top: 2.5px
+}
